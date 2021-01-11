@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://nerticonbi1978.github.io/sitemap.xml
